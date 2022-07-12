@@ -1,4 +1,4 @@
-# orpheus
+# Endless Rungeon
 WorkJam - Endless run project #1
 
 *Team*
