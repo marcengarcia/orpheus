@@ -2,6 +2,7 @@
 WorkJam - Endless run project #1
 
 *Team*
+<br>
 **Art designer**
 <br>
 Rodrigo Nicolas
