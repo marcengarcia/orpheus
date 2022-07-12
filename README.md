@@ -6,13 +6,16 @@ WorkJam - Endless run project #1
 <br>
 Rodrigo Nicolas
 <br>
+<br>
 **Music**
 <br>
 Mario Dupunt
 <br>
+<br>
 **Development**
 <br>
 Marcelo Garcia
+<br>
 <br>
 **Mentor**
 <br>
