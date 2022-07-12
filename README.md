@@ -2,11 +2,18 @@
 WorkJam - Endless run project #1
 
 *Team*
-*Art designer*
-Rodrigo
-
-*Development*
+**Art designer**
+<br>
+Rodrigo Nicolas
+<br>
+**Music**
+<br>
+Mario Dupunt
+<br>
+**Development**
+<br>
 Marcelo Garcia
-
-*Mentor*
+<br>
+**Mentor**
+<br>
 Gonzalo Lopez Borniego
